@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "817800625633",
+    "project_id": "marglo-ac7a6",
+    "storage_bucket": "marglo-ac7a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817800625633:android:a6b01f3594011769b0a6a0",
+        "android_client_info": {
+          "package_name": "com.example.marglo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817800625633-7qu7jbmti650ah7g6lov10cnde4vjne1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtE3CTRpqht9U0JQE5cvc0PYyV1vxzGxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817800625633-7qu7jbmti650ah7g6lov10cnde4vjne1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
